@@ -1,19 +1,9 @@
-### 👋 반갑습니다!  👋
-
-<!--
-**gamgammoo2/gamgammoo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,3&type=Waving&text=Hi,Welcome_Gam's_Git!&fontColor=002f04)
 
 
-<a href="instagram.com/mer_cucy" target="_blank"><img src="https://img.shields.io/badge/mer_cucy-#7638FA?style=flat&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamgammoo2&show_icons=true&theme=vue)
+
+</div>
