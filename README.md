@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="instagram.com/mer_cucy" target="_blank"><img src="https://img.shields.io/badge/mer_cucy-#7638FA?style=flat&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram</title></svg>&logoColor=#E4405F"/></a>
+<a href="instagram.com/mer_cucy" target="_blank"><img src="https://img.shields.io/badge/mer_cucy-#7638FA?style=flat&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></a>
